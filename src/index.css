@@ -1,13 +1,4 @@
 @import "tailwindcss";
-@import "@fontsource/orbitron";
-@import "@fontsource/inter";
-@import "@fontsource/oxanium";
-@import "@fontsource/rajdhani";
-@import "@fontsource/exo-2";
-@import "@fontsource/space-grotesk";
-@import "@fontsource/audiowide";
-@import "@fontsource/michroma";
-
 *{
   margin: 0;
   padding: 0;
